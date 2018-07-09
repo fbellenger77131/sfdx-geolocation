@@ -45,15 +45,15 @@
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1531163356757,
+            "changeTime": 1531163356757,
+            "contentHash": "1b1fce203cd22730aa6e8cc0c24ecbdcc21bc70f",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1531164962443,
-            "changeTime": 1531164962443,
-            "isWorkspace": false,
-            "contentHash": "23660167a0fa4569f0c9187c3e1280d8bd7ba165"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -515,14 +515,14 @@
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
             "isDirectory": false,
+            "size": 339,
+            "modifiedTime": 1531163188626,
+            "changeTime": 1531086586167,
+            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a",
             "isMetadataFile": false,
-            "size": 542,
-            "modifiedTime": 1531168486386,
-            "changeTime": 1531168486386,
-            "contentHash": "0eb081015e8f0397710d76f5fa901ec23d0495e7"
+            "state": "u"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1531163211659,
+            "changeTime": 1531086566701,
+            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef",
             "isMetadataFile": false,
-            "size": 395,
-            "modifiedTime": 1531168520593,
-            "changeTime": 1531168520593,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
+            "state": "u"
         }
     ],
     [
@@ -921,7 +921,7 @@
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap",
             "isDirectory": true,
             "size": 352,
-            "modifiedTime": 1531164725353,
+            "modifiedTime": 1531156876707,
             "changeTime": 1531156876707,
             "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
             "isMetadataFile": false,
@@ -948,36 +948,36 @@
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 328,
-            "modifiedTime": 1531168693381,
-            "changeTime": 1531168693381,
-            "contentHash": "fc09d8f9ea8d50488e6c062ff3ab0df932437b48"
+            "size": 256,
+            "modifiedTime": 1531164725351,
+            "changeTime": 1531164725351,
+            "contentHash": "f9b6c3794ae4ae87a33740d78e7022444aea9234"
         }
     ],
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1531164725345,
             "changeTime": 1531164725345,
-            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "0e56fac143bebb2d3f47b76d45c3a61ff95ee18e"
         }
     ],
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
         {
+            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.css",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 38,
             "modifiedTime": 1531164725351,
             "changeTime": 1531164725351,
-            "contentHash": "e2a2a027fb5f3965b93c6e322d56fefb53a87e70",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e2a2a027fb5f3965b93c6e322d56fefb53a87e70"
         }
     ],
     [
@@ -1013,75 +1013,36 @@
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 830,
-            "modifiedTime": 1531168725965,
-            "changeTime": 1531168725965,
-            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22"
+            "size": 378,
+            "modifiedTime": 1531164725353,
+            "changeTime": 1531164725353,
+            "contentHash": "195c0a2d32ab26c8b56292e40da9c92711dc3fab"
         }
     ],
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
         {
+            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapHelper.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 44,
             "modifiedTime": 1531164725350,
             "changeTime": 1531164725350,
-            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "fa0ec188d1d404a7d907cd49c9dd8e2ade86c99d"
         }
     ],
     [
         "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
         {
+            "state": "u",
             "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapRenderer.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 49,
             "modifiedTime": 1531164725348,
             "changeTime": 1531164725348,
-            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1531164962444,
-            "changeTime": 1531164962444,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
-        }
-    ],
-    [
-        "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 100,
-            "modifiedTime": 1531168397631,
-            "changeTime": 1531168397631,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
-        }
-    ],
-    [
-        "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/Fredbe/Documents/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 242,
-            "modifiedTime": 1531164962444,
-            "changeTime": 1531164962444,
-            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8"
+            "contentHash": "5c9d3500f47ee794776fbf674e09fad5e0855732"
         }
     ]
 ]
