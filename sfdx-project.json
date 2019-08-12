@@ -2,7 +2,8 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "comment": "updated by u3"
     }
   ],
   "namespace": "",
