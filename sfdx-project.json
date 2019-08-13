@@ -3,10 +3,10 @@
     {
       "path": "force-app",
       "default": true,
-      "comment": "updated by u1"
+      "comment": "updated by u2"
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://test.salesforce.com",
+  "sfdcLoginUrl": "https://myurl.salesforce.com",
   "sourceApiVersion": "43.0"
 }
